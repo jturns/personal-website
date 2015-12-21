@@ -1,0 +1,20 @@
+
+Fonts actively used in this project
+-----------------------------------
+
+Font name       :   Source Sans Pro
+Font provider   :   google
+
+
+
+******************************************************************************Font name       :   Roboto
+Font provider   :   google
+
+
+
+******************************************************************************
+
+
+
+
+Created by Typecast on 2015/12/13.
